@@ -1,1 +1,109 @@
-LyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiAgIEJJTExZIEJPV0lOIOKAlCBtYWluLmpzICB2MwogICA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KKGZ1bmN0aW9uICgpIHsKICAndXNlIHN0cmljdCc7CgogIGNvbnN0IG5hdiAgICAgICAgID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ25hdicpOwogIGNvbnN0IGhlcm9Db250ZW50ID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmhlcm8tY29udGVudCcpOwogIGNvbnN0IGhlcm9TZWN0aW9uID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2hlcm8nKTsKCiAgLyog4pSA4pSAIEhFUk8gU0NST0xMIENIT1JFT0dSQVBIWSDigJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICAgICAtIEhlcm8gY29udGVudCBmYWRlcyArIGRyaWZ0cyB1cCBhcyB5b3Ugc2Nyb2xsCiAgICAgLSBOYXYgc2xpZGVzIGRvd24gZnJvbSB0b3Agb25jZSBoZXJvIGlzIG1vc3RseSBzY3JvbGxlZCBwYXN0CiAg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSAICovCiAgZnVuY3Rpb24gb25TY3JvbGwoKSB7CiAgICBjb25zdCBzY3JvbGxZID0gd2luZG93LnNjcm9sbFk7CiAgICBjb25zdCBoZXJvSCAgID0gaGVyb1NlY3Rpb24gPyBoZXJvU2VjdGlvbi5vZmZzZXRIZWlnaHQgOiB3aW5kb3cuaW5uZXJIZWlnaHQ7CgogICAgLy8gUHJvZ3Jlc3MgMCDihpIgMSBvdmVyIHRoZSBmaXJzdCA1MCUgb2YgdGhlIGhlcm8gaGVpZ2h0CiAgICBjb25zdCBwcm9ncmVzcyA9IE1hdGgubWluKHNjcm9sbFkgLyAoaGVyb0ggKiAwLjUpLCAxKTsKCiAgICAvLyBGYWRlIGFuZCBkcmlmdCBoZXJvIGNvbnRlbnQgdXAKICAgIGlmIChoZXJvQ29udGVudCkgewogICAgICBoZXJvQ29udGVudC5zdHlsZS5vcGFjaXR5ICAgPSBTdHJpbmcoMSAtIHByb2dyZXNzKTsKICAgICAgaGVyb0NvbnRlbnQuc3R5bGUudHJhbnNmb3JtID0gYHRyYW5zbGF0ZVkoJHtwcm9ncmVzcyAqIC00MH1weClgOwogICAgfQoKICAgIC8vIE5hdjogaGlkZGVuIHVudGlsIHNjcm9sbGVkIH44MHB4LCB0aGVuIHNsaWRlcyBpbiBmcm9tIHRvcAogICAgaWYgKHNjcm9sbFkgPiA4MCkgewogICAgICBuYXYuY2xhc3NMaXN0LmFkZCgnbmF2LXZpc2libGUnKTsKICAgIH0gZWxzZSB7CiAgICAgIG5hdi5jbGFzc0xpc3QucmVtb3ZlKCduYXYtdmlzaWJsZScpOwogICAgfQogIH0KCiAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ3Njcm9sbCcsIG9uU2Nyb2xsLCB7IHBhc3NpdmU6IHRydWUgfSk7CiAgb25TY3JvbGwoKTsgLy8gcnVuIG9uY2Ugb24gbG9hZAoKICAvKiDilIDilIAgTU9CSUxFIE1FTlUg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSAICovCiAgY29uc3QgaGFtYnVyZ2VyICA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCduYXYtaGFtYnVyZ2VyJyk7CiAgY29uc3QgbW9iaWxlTWVudSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdtb2JpbGUtbWVudScpOwogIGNvbnN0IGNsb3NlQnRuICAgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbW9iaWxlLWNsb3NlJyk7CgogIGhhbWJ1cmdlci5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsICgpID0+IHsKICAgIG1vYmlsZU1lbnUuY2xhc3NMaXN0LmFkZCgnb3BlbicpOwogICAgZG9jdW1lbnQuYm9keS5zdHlsZS5vdmVyZmxvdyA9ICdoaWRkZW4nOwogICAgaGFtYnVyZ2VyLnNldEF0dHJpYnV0ZSgnYXJpYS1leHBhbmRlZCcsICd0cnVlJyk7CiAgfSk7CgogIGZ1bmN0aW9uIGNsb3NlTW9iaWxlKCkgewogICAgbW9iaWxlTWVudS5jbGFzc0xpc3QucmVtb3ZlKCdvcGVuJyk7CiAgICBkb2N1bWVudC5ib2R5LnN0eWxlLm92ZXJmbG93ID0gJyc7CiAgICBoYW1idXJnZXIuc2V0QXR0cmlidXRlKCdhcmlhLWV4cGFuZGVkJywgJ2ZhbHNlJyk7CiAgfQoKICBjbG9zZUJ0bi5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGNsb3NlTW9iaWxlKTsKICBtb2JpbGVNZW51LnF1ZXJ5U2VsZWN0b3JBbGwoJ2EnKS5mb3JFYWNoKGEgPT4gYS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGNsb3NlTW9iaWxlKSk7CgogIC8qIOKUgOKUgCBTQ1JPTEwgUkVWRUFMIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgCAqLwogIGNvbnN0IHJldmVhbEVscyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJy5yZXZlYWwnKTsKICBjb25zdCByZXZlYWxPYnMgPSBuZXcgSW50ZXJzZWN0aW9uT2JzZXJ2ZXIoZW50cmllcyA9PiB7CiAgICBlbnRyaWVzLmZvckVhY2goZSA9PiB7CiAgICAgIGlmIChlLmlzSW50ZXJzZWN0aW5nKSB7CiAgICAgICAgZS50YXJnZXQuY2xhc3NMaXN0LmFkZCgnaW4nKTsKICAgICAgICByZXZlYWxPYnMudW5vYnNlcnZlKGUudGFyZ2V0KTsKICAgICAgfQogICAgfSk7CiAgfSwgeyB0aHJlc2hvbGQ6IDAuMSwgcm9vdE1hcmdpbjogJzBweCAwcHggLTM2cHggMHB4JyB9KTsKICByZXZlYWxFbHMuZm9yRWFjaChlbCA9PiByZXZlYWxPYnMub2JzZXJ2ZShlbCkpOwoKICAvKiDilIDilIAgU01PT1RIIFNDUk9MTCDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAgKi8KICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdhW2hyZWZePSIjIl0nKS5mb3JFYWNoKGEgPT4gewogICAgYS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGUgPT4gewogICAgICBjb25zdCB0YXJnZXQgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKGEuZ2V0QXR0cmlidXRlKCdocmVmJykpOwogICAgICBpZiAoIXRhcmdldCkgcmV0dXJuOwogICAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICAgIC8vIE9ubHkgb2Zmc2V0IGZvciBuYXYgaWYgbmF2IGlzIGN1cnJlbnRseSB2aXNpYmxlCiAgICAgIGNvbnN0IG5hdk9mZnNldCA9IG5hdi5jbGFzc0xpc3QuY29udGFpbnMoJ25hdi12aXNpYmxlJykgPyA2NCA6IDA7CiAgICAgIHdpbmRvdy5zY3JvbGxUbyh7IHRvcDogdGFyZ2V0Lm9mZnNldFRvcCAtIG5hdk9mZnNldCwgYmVoYXZpb3I6ICdzbW9vdGgnIH0pOwogICAgfSk7CiAgfSk7CgogIC8qIOKUgOKUgCBDT05UQUNUIEZPUk0g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSAICovCiAgY29uc3QgZm9ybSAgICAgICA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb250YWN0LWZvcm0nKTsKICBjb25zdCBzdWNjZXNzTXNnID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmZvcm0tc3VjY2VzcycpOwoKICBpZiAoZm9ybSkgewogICAgZm9ybS5hZGRFdmVudExpc3RlbmVyKCdzdWJtaXQnLCBlID0+IHsKICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICBjb25zdCBidG4gPSBmb3JtLnF1ZXJ5U2VsZWN0b3IoJ2J1dHRvblt0eXBlPSJzdWJtaXQiXScpOwogICAgICBidG4udGV4dENvbnRlbnQgPSAnU2VuZGluZ1x1MjAyNic7CiAgICAgIGJ0bi5kaXNhYmxlZCA9IHRydWU7CiAgICAgIC8vIFdpcmUgdG8geW91ciBQSFAgZW5kcG9pbnQgaGVyZQogICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICBidG4udGV4dENvbnRlbnQgPSAnU2VudCc7CiAgICAgICAgaWYgKHN1Y2Nlc3NNc2cpIHN1Y2Nlc3NNc2cuc3R5bGUuZGlzcGxheSA9ICdibG9jayc7CiAgICAgICAgZm9ybS5yZXNldCgpOwogICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgYnRuLnRleHRDb250ZW50ID0gJ1N1Ym1pdCc7CiAgICAgICAgICBidG4uZGlzYWJsZWQgPSBmYWxzZTsKICAgICAgICAgIGlmIChzdWNjZXNzTXNnKSBzdWNjZXNzTXNnLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7CiAgICAgICAgfSwgNTAwMCk7CiAgICAgIH0sIDEyMDApOwogICAgfSk7CiAgfQoKfSkoKTs=
+/* ============================================================
+   BILLY BOWIN — main.js  v4 (static build)
+   ============================================================ */
+(function () {
+  'use strict';
+
+  const nav         = document.getElementById('nav');
+  const heroContent = document.querySelector('.hero-content');
+  const heroSection = document.getElementById('hero');
+  const navBrand    = document.querySelector('.nav-brand');
+
+  /* ── HERO SCROLL ─────────────────────────────────────────── */
+  function onScroll() {
+    const scrollY = window.scrollY;
+    const heroH   = heroSection ? heroSection.offsetHeight : window.innerHeight;
+    const progress = Math.min(scrollY / (heroH * 0.5), 1);
+
+    if (heroContent) {
+      heroContent.style.opacity   = String(1 - progress);
+      heroContent.style.transform = `translateY(${progress * -40}px)`;
+    }
+
+    if (scrollY > 80) {
+      nav.classList.add('nav-visible');
+      if (navBrand) navBrand.classList.add('brand-visible');
+    } else {
+      nav.classList.remove('nav-visible');
+      if (navBrand) navBrand.classList.remove('brand-visible');
+    }
+  }
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+
+  /* ── MOBILE MENU ─────────────────────────────────────────── */
+  const hamburger  = document.getElementById('nav-hamburger');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const closeBtn   = document.getElementById('mobile-close');
+
+  if (hamburger) {
+    hamburger.addEventListener('click', () => {
+      mobileMenu.classList.add('open');
+      document.body.style.overflow = 'hidden';
+      hamburger.setAttribute('aria-expanded', 'true');
+    });
+  }
+
+  function closeMobile() {
+    if (mobileMenu) mobileMenu.classList.remove('open');
+    document.body.style.overflow = '';
+    if (hamburger) hamburger.setAttribute('aria-expanded', 'false');
+  }
+
+  if (closeBtn) closeBtn.addEventListener('click', closeMobile);
+  if (mobileMenu) {
+    mobileMenu.querySelectorAll('a').forEach(a => a.addEventListener('click', closeMobile));
+  }
+
+  /* ── SMOOTH SCROLL ───────────────────────────────────────── */
+  document.querySelectorAll('a[href^="#"]').forEach(a => {
+    a.addEventListener('click', e => {
+      const target = document.querySelector(a.getAttribute('href'));
+      if (!target) return;
+      e.preventDefault();
+      const navOffset = nav.classList.contains('nav-visible') ? 64 : 0;
+      window.scrollTo({ top: target.offsetTop - navOffset, behavior: 'smooth' });
+    });
+  });
+
+  /* ── SCROLL REVEAL ───────────────────────────────────────── */
+  /* Use requestAnimationFrame to ensure the browser has painted
+     before the IntersectionObserver checks visibility.
+     Without this, elements already in the viewport on static
+     pages may never receive the 'in' class.                    */
+  requestAnimationFrame(function () {
+
+    var revealEls = document.querySelectorAll('.reveal');
+
+    if ('IntersectionObserver' in window) {
+
+      var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) {
+            e.target.classList.add('in');
+            observer.unobserve(e.target);
+          }
+        });
+      }, { threshold: 0.08, rootMargin: '0px 0px -20px 0px' });
+
+      revealEls.forEach(function (el) { observer.observe(el); });
+
+      /* Fallback: any element already fully in viewport on load */
+      requestAnimationFrame(function () {
+        revealEls.forEach(function (el) {
+          var r = el.getBoundingClientRect();
+          if (r.top < window.innerHeight && r.bottom > 0) {
+            el.classList.add('in');
+          }
+        });
+      });
+
+    } else {
+      /* No IntersectionObserver support — show everything */
+      revealEls.forEach(function (el) { el.classList.add('in'); });
+    }
+
+  });
+
+})();
