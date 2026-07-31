@@ -988,16 +988,14 @@ ul  { list-style: none; }
 }
 
 /* Marquee */
-/* Static three-column card grid */
+/* Two-column masonry card layout */
 .marquee-wrap {
-  padding: 0 48px;
+  padding: 0;
 }
 .t-cards-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
-  max-width: var(--max-w);
-  margin: 0 auto;
+  columns: 2;
+  column-gap: 24px;
+  width: 100%;
 }
 
 @keyframes marquee-scroll {
@@ -1012,6 +1010,9 @@ ul  { list-style: none; }
   border: 1px solid var(--amber);
   border-radius: 20px;
   padding: 34px 30px;
+  break-inside: avoid;
+  display: inline-block;
+  margin-bottom: 24px;
 }
 
 .t-text {
@@ -1280,7 +1281,7 @@ ul  { list-style: none; }
   .footer-tagline { display: none; }
   .marquee-wrap { margin: 0 -24px; }
   .marquee-track { padding: 4px 24px; }
-  .t-cards-grid { grid-template-columns: 1fr; }
+  .t-cards-grid { columns: 1; }
   .marquee-wrap { padding: 0 24px; }
   .exp-list, .wayback-card, .t-cards-grid { margin: 40px 20px; }
   .container.work-inner { margin-top: 250px; }
