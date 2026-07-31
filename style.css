@@ -990,7 +990,7 @@ ul  { list-style: none; }
 /* Marquee */
 /* Two-column masonry card layout */
 .marquee-wrap {
-  padding: 0;
+  padding: 0 48px;
 }
 .t-cards-grid {
   columns: 2;
